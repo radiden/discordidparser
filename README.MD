@@ -4,16 +4,16 @@ discord snowflake parser made in c++
 
 to install:
 
-```meson builddir
-ninja -C builddir```
+`meson builddir
+ninja -C builddir`
 
 example output:
 
-```discord userid: 180681807417573376
+`discord userid: 180681807417573376
 account created on: 13 / 05 / 2016 at 16:04:59
 worker id: 0
 process id: 0
-job number: 0```
+job number: 0`
 
 # frequently asked questions
 
