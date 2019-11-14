@@ -20,11 +20,12 @@ job number: 0
 ```
 
 # frequently asked questions
-
+```
 q: why
 a: yes
-
+```
+```
 q: thats so easy to do yourself
 a: shut
-
+```
 :)
